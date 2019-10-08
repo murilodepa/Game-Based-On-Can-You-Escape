@@ -10,8 +10,7 @@
 #### Sistema Operacional
 * Foi utilizado o Windows 10, mas pode ser realizado em outro sistema operacional, necessita instalar o compilador compatível com o sistema operacional.
 
-#### Linguagem de Programação
-* Linguagem de programação funcional Alice, precisa ter conhecimentos básicos nesta linguagem.
+* **Observação:** Para desenvolver este projeto, precisa apenas de conhecimentos básicos sobre lógica de programação e linguagem de programação funcional Alice.
 
 ### Guia de instalação
 * Para executar o programa na plataforma Alice 2.4, é bem simples, necessita estar instalando o software que estará disponibilizado o link abaixo, onde o próprio fabricante disponibiliza gratuitamente para download. Precisa estar verificando na seleção do download o seu sistema operacional, no site, tem também a versão mais atual sendo a 3.0, entretanto, não foi utilizada para esse projeto e pode ocorrer conflito de execução e de objetos utilizados. 
