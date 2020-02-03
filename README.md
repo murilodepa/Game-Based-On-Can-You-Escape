@@ -17,7 +17,7 @@
 * <a> [Alice 2: Necessário para desenvolvimento do projeto](https://www.alice.org/get-alice/alice-2/)
 
 ### Desenvolvimento
-* Git clone https://github.com/murilodepa/Jogo-Baseado-no-Can-You-Escape
+* Git clone https://github.com/murilodepa/Game-Based-on-Can-You-Escape.git
 * Se realizar "Download ZIP", necessita de um descompactador de arquivos.
 * Após ter instalado o programa Alice, execute o programa e selecione "arquivo" e depois "abrir projeto".
 * Selecione o diretório onde está salvo o arquivo e depois selecione a opção abrir.
